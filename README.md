@@ -1,6 +1,6 @@
 # 💡 **Lumenary**
 
-An upcoming project — schematic and design phase underway.
+An upcoming project. Schematic and design phase underway.
 More details, diagrams, and documentation coming soon.
 
 ---
