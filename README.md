@@ -7,7 +7,7 @@ An upcoming project. Schematic and design phase underway. More details, diagrams
 
 Walking through the dollar store one day I saw some 9x9 pegboard panels which sparked the idea of making an extensible LED matrix display.
 
-## 🔹 V0.0.0 For Rev 1 Schematic
+## 🔹 V0.0.0 Firmware For Rev 1 Schematic
 
 - Initial release.
 
